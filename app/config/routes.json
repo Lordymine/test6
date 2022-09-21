@@ -1,12 +1,6 @@
 {
   "routes": [
     {
-      "path": "/",
-      "page": "index",
-      "routeType": "page",
-      "layout": "main"
-    },
-    {
       "path": "/teste_6",
       "page": "teste_6",
       "layout": "main"
@@ -15,11 +9,6 @@
       "path": "/teste1",
       "page": "teste1",
       "layout": ""
-    },
-    {
-      "path": "/login",
-      "page": "login",
-      "layout": "main"
     }
   ]
 }
