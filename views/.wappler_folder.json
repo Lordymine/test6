@@ -1,10 +1,10 @@
 {
-  "teste1.ejs": {
+  "teste_6.ejs": {
     "layoutPage": "main",
     "description": ""
   },
-  "teste2.ejs": {
-    "layoutPage": "main",
+  "login.ejs": {
+    "layoutPage": "",
     "description": ""
   }
 }
