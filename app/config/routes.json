@@ -5,11 +5,6 @@
       "page": "index",
       "routeType": "page",
       "layout": "main"
-    },
-    {
-      "path": "/teste_6",
-      "page": "teste_6",
-      "layout": "main"
     }
   ]
 }
