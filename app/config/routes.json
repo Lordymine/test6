@@ -7,13 +7,8 @@
       "layout": "main"
     },
     {
-      "path": "/teste1",
-      "page": "teste1",
-      "layout": "main"
-    },
-    {
-      "path": "/teste2",
-      "page": "teste2",
+      "path": "/teste_6",
+      "page": "teste_6",
       "layout": "main"
     }
   ]
