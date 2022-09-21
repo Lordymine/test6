@@ -12,8 +12,9 @@
       "layout": "main"
     },
     {
-      "path": "/login",
-      "page": "login"
+      "path": "/teste1",
+      "page": "teste1",
+      "layout": "main"
     }
   ]
 }
