@@ -2,5 +2,9 @@
   "teste_6.ejs": {
     "layoutPage": "main",
     "description": ""
+  },
+  "login.ejs": {
+    "layoutPage": "",
+    "description": ""
   }
 }
