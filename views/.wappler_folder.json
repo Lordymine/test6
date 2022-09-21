@@ -4,7 +4,7 @@
     "description": ""
   },
   "login.ejs": {
-    "layoutPage": "main",
+    "layoutPage": "",
     "description": ""
   }
 }
