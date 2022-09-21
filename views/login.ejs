@@ -2,7 +2,7 @@
 <meta name="ac:route" content="/login">
 <dmx-notifications id="notifies1"></dmx-notifications>
 <div class="container">
-    <form id="login" method="post" is="dmx-serverconnect-form" action="/api/login" dmx-on:success="notifies1.success('Login efetuado com sucesso')" dmx-on:error="notifies1.danger('Algo deu errado, entre em contato conosco!')">
+    <form id="login" method="post" is="dmx-serverconnect-form" action="/api/login" dmx-on:success="notifies1.success('Login efetuado com sucesso')" dmx-on:error="notifies1.danger('Algo deu errado, entre em contato conosco!')" dmx-on:unauthorized="notifies1.danger('E-mail ou senha inválidos')">
         <div class="row">
             <div class="col-12 col-md-8 col-lg-7 col-xl-5 text-start">
                 <div class="row">

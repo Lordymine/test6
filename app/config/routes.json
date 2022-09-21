@@ -13,7 +13,13 @@
     },
     {
       "path": "/login",
-      "page": "login"
+      "page": "login",
+      "layout": "main"
+    },
+    {
+      "path": "/teste1",
+      "page": "teste1",
+      "layout": "main"
     }
   ]
 }
